@@ -1,0 +1,4 @@
+{ "userId":1234,"itemId":"item1", "amount": 50000, "purchasedAt":"2023-06-29 10:00:00"}
+{ "userId":1234,"itemId":"item2", "amount": 500000, "purchasedAt":"2023-06-29 11:00:00"}
+{ "userId":6789,"itemId":"item3", "amount": 10000, "purchasedAt":"2023-06-29 12:00:00"}
+{ "userId":1234,"itemId":"item4", "amount": 5000000, "purchasedAt":"2023-06-29 13:00:00"}
